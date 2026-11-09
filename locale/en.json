@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Plugin builder skill",
+    "description": "Adds the create-dsh-plugin skill: a playbook for authoring, installing, and verifying DeepSeek Harness plugins."
+  }
+}

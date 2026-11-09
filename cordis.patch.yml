@@ -1,0 +1,3 @@
+- insert:
+    - id: plugin-builder-skill
+      name: 'dsh-plugin-builder-skill'
